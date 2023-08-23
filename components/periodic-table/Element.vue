@@ -8,7 +8,7 @@
       <div class="text-2xl 3xl:text-3xl">
         {{ symbol }}
       </div>
-      <div class="saira text-sm mt-n-10 3xl:mt-n-6">
+      <div class="saira text-sm 3xl:text-base mt-n-10 3xl:mt-n-6">
         {{ name }}
       </div>
     </div>
