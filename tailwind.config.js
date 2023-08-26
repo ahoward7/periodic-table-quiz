@@ -14,8 +14,15 @@ module.exports = {
         '3px': '3px',
       },
       margin: {
+        'n-2': '-2px',
         'n-6': '-6px',
-        'n-10': '-10px',
+        'n-9': '-9px',
+      },
+      height: {
+        '18': '4.5rem',
+      },
+      width: {
+        '18': '4.5rem',
       },
       colors: {
         'alkali-metal': '#FF4F4F',
